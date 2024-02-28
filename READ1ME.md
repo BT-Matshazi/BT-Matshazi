@@ -8,13 +8,10 @@
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
-# 👋 Hello World! I'm [Your Name]
-
-
 
  <h1>👋 Hello, World!</h1>
       <p>
-        Welcome to my coding playground! I'm [Your Name], a passionate React and Next.js developer who loves
+        Welcome to my coding playground! I'm Bekithemba Matshazi, a passionate React and Next.js developer who loves
         turning coffee into code. Whether it's crafting pixel-perfect UIs, optimizing performance, or
         unraveling the mysteries of state management, I'm always up for the challenge.
       </p>
