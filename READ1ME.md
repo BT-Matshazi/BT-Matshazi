@@ -8,19 +8,19 @@ trends, pondering over design patterns, or debating the eternal question: tabs o
 </p>
 <h2>🚀 My Superpowers:</h2>
 <ul>
-<li>Next.js & React wizardry <string>`<Avada Kedavra/>`</string></li>
+<li>Next.js & React wizardry <string>(Avada Kedavra)</string></li>
 <li>Responsive and sleek UI/UX design</li>
-<li>State management sorcery (Redux, Context API)</li>
-<li>RESTful API taming</li>
-<li>GraphQL exploration</li>
+<li>Azkaban Authentication Auth.js, JWT, Clerk & Auth0</li>
+<li>RESTful API and Server Actions taming</li>
+<li>ORM exploration with Prisma & Drizzle</li>
 <li>Code-splitting escapades</li>
 </ul>
 <h2>🛠️ Tech Stack:</h2>
 <ul>
-<li>React</li>
 <li>Next.js</li>
+<li>React</li>
 <li>JavaScript (ES6+)</li>
-<li>HTML & CSS (with a sprinkle of Sass)</li>
+<li>Tailwindcss (with a sprinkle of vanilla css to keep the stone ages alive)</li>
 <li>Node.js</li>
 <li>Express</li>
 <li>Git version control</li>
