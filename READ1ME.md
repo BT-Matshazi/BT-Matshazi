@@ -11,29 +11,8 @@
 # 👋 Hello World! I'm [Your Name]
 
 
-import React, { useState, useEffect } from 'react';
 
-const AboutMe = () => {
-  const [developerMode, setDeveloperMode] = useState(true);
-
-  useEffect(() => {
-    const showOffSkills = () => {
-      console.log('🚀 Full-stack Developer');
-      console.log('💻 React & Next.js Enthusiast');
-      console.log('🎨 UI/UX Design Admirer');
-      console.log('🌐 Constantly exploring the Web');
-    };
-
-    if (developerMode) {
-      showOffSkills();
-    }
-
-    return () => setDeveloperMode(false);
-  }, [developerMode]);
-
-  return (
-    <>
-      <h1>👋 Hello, World!</h1>
+ <h1>👋 Hello, World!</h1>
       <p>
         Welcome to my coding playground! I'm [Your Name], a passionate React and Next.js developer who loves
         turning coffee into code. Whether it's crafting pixel-perfect UIs, optimizing performance, or
@@ -69,9 +48,6 @@ const AboutMe = () => {
       <p>
         <em>P.S. Toggle the developer mode to peek behind the curtain!</em>
       </p>
-    </>
-  );
-};
 
-export default AboutMe;
+
 
