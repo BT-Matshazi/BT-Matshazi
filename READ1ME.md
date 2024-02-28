@@ -15,7 +15,12 @@
         turning coffee into code. Whether it's crafting pixel-perfect UIs, optimizing performance, or
         unraveling the mysteries of state management, I'm always up for the challenge.
       </p>
-      <p>
+
+      <>
+       useCoffee() – it keeps me caffeinated during late-night coding sessions. ☕
+      </>
+      
+   <p>
         When I'm not pushing pixels or squashing bugs, you'll find me exploring the latest web development
         trends, pondering over design patterns, or debating the eternal question: tabs or spaces?
       </p>
