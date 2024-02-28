@@ -7,3 +7,71 @@
 [![](https://visitcount.itsvg.in/api?id=BT-Matshazi&icon=0&color=0)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+
+# 👋 Hello World! I'm [Your Name]
+
+
+import React, { useState, useEffect } from 'react';
+
+const AboutMe = () => {
+  const [developerMode, setDeveloperMode] = useState(true);
+
+  useEffect(() => {
+    const showOffSkills = () => {
+      console.log('🚀 Full-stack Developer');
+      console.log('💻 React & Next.js Enthusiast');
+      console.log('🎨 UI/UX Design Admirer');
+      console.log('🌐 Constantly exploring the Web');
+    };
+
+    if (developerMode) {
+      showOffSkills();
+    }
+
+    return () => setDeveloperMode(false);
+  }, [developerMode]);
+
+  return (
+    <>
+      <h1>👋 Hello, World!</h1>
+      <p>
+        Welcome to my coding playground! I'm [Your Name], a passionate React and Next.js developer who loves
+        turning coffee into code. Whether it's crafting pixel-perfect UIs, optimizing performance, or
+        unraveling the mysteries of state management, I'm always up for the challenge.
+      </p>
+      <p>
+        When I'm not pushing pixels or squashing bugs, you'll find me exploring the latest web development
+        trends, pondering over design patterns, or debating the eternal question: tabs or spaces?
+      </p>
+      <h2>🚀 My Superpowers:</h2>
+      <ul>
+        <li>React & Next.js wizardry</li>
+        <li>Responsive and sleek UI/UX design</li>
+        <li>State management sorcery (Redux, Context API)</li>
+        <li>RESTful API taming</li>
+        <li>GraphQL exploration</li>
+        <li>Code-splitting escapades</li>
+      </ul>
+      <h2>🛠️ Tech Stack:</h2>
+      <ul>
+        <li>React</li>
+        <li>Next.js</li>
+        <li>JavaScript (ES6+)</li>
+        <li>HTML & CSS (with a sprinkle of Sass)</li>
+        <li>Node.js</li>
+        <li>Express</li>
+        <li>Git version control</li>
+      </ul>
+      <p>
+        Feel free to explore my repositories, fork them, open issues, or reach out for collaboration. Let's
+        build something awesome together!
+      </p>
+      <p>
+        <em>P.S. Toggle the developer mode to peek behind the curtain!</em>
+      </p>
+    </>
+  );
+};
+
+export default AboutMe;
+
