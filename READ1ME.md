@@ -8,7 +8,7 @@ trends, pondering over design patterns, or debating the eternal question: tabs o
 </p>
 <h2>🚀 My Superpowers:</h2>
 <ul>
-<li>Next.js & React wizardry <string><Avada Kedavra/></string></li>
+<li>Next.js & React wizardry <string>`<Avada Kedavra/>`</string></li>
 <li>Responsive and sleek UI/UX design</li>
 <li>State management sorcery (Redux, Context API)</li>
 <li>RESTful API taming</li>
