@@ -10,7 +10,7 @@ trends, pondering over design patterns, or debating the eternal question: tabs o
 <ul>
 <li>Next.js & React wizardry <string>(Avada Kedavra🪄)</string></li>
 <li>Responsive and sleek UI/UX design</li>
-<li>Azkaban Authentication Auth.js, JWT, Clerk & Auth0</li>
+<li>(Azkaban) type Authentication Auth.js, JWT, Clerk & Auth0</li>
 <li>RESTful API and Server Actions taming</li>
 <li>ORM exploration with Prisma & Drizzle</li>
 <li>Code-splitting escapades</li>
