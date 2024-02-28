@@ -8,7 +8,7 @@ trends, pondering over design patterns, or debating the eternal question: tabs o
 </p>
 <h2>🚀 My Superpowers:</h2>
 <ul>
-<li>Next.js & React wizardry <string>(Avada Kedavra)</string></li>
+<li>Next.js & React wizardry <string>(Avada Kedavra🪄)</string></li>
 <li>Responsive and sleek UI/UX design</li>
 <li>Azkaban Authentication Auth.js, JWT, Clerk & Auth0</li>
 <li>RESTful API and Server Actions taming</li>
